@@ -1,0 +1,6 @@
+######    Live Cricket Score #####
+#############   Requirements ##########
+
+requests
+bs4
+lxml
